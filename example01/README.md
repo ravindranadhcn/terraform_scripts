@@ -1,5 +1,5 @@
 # terraform_scripts
-This terraform script will create devopsvpc and public subnet with Internet gateway, Route table with subnet assosiation, Security group to allow ssh from any where and EC2 surver with keypair.itii
+This terraform script will create devopsvpc and public subnet with Internet gateway, Route table with subnet assosiation, Security group to allow ssh from any where and EC2 surver with keypair(new key pair).
 
 
 you have to add creadetials file with working access key and secret access key.
